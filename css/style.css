@@ -1,8 +1,16 @@
 body {
   display: block;
   text-align: center;
+  max-width: 800px;
 }
 
 h1 {
   color: blueviolet;
+}
+
+ul {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
 }
