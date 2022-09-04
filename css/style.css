@@ -1,8 +1,9 @@
 body {
   display: block;
   text-align: center;
-  max-width: 800px;
+  width: 800px;
   background-color: #f9e8a6;
+  margin: 0 auto;
 }
 
 ul {
